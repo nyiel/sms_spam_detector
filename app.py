@@ -1,4 +1,4 @@
-from flask import Flask, request, render_template # type: ignore
+from python app.py import Flask, request, render_template # type: ignore
 import joblib # type: ignore
 
 app = Flask(__name__)
